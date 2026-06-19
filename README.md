@@ -492,16 +492,16 @@ EcoEdge-AI
 
 
 **Nikita Nayak**
-B.Tech Computer Science & Engineering, KIIT University
+
 
 **Ampa Ranjan**
-B.Tech Computer Science & Engineering, KIIT University
+
 
 **Milan Mipsita Jena**
-B.Tech Computer Science & Engineering, KIIT University
+
 
 **Shivam**
-B.Tech Computer Science & Engineering, KIIT University
+
 
 
 
