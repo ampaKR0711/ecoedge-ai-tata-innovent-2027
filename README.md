@@ -17,9 +17,12 @@
 
 ---
 
+<div align="center">
 
 
 # 🏆 Tata Technologies InnoVent 2027 Project
+
+</div>
 
 EcoEdge AI has been developed as an innovation project for **Tata Technologies InnoVent 2027** under the category:
 
