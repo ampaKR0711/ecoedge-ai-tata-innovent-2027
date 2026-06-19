@@ -1,5 +1,5 @@
-
-#⚡ EcoEdge AI
+<div align="center">
+#⚡EcoEdge AI
 
 ### Industrial Energy Intelligence Platform for Sustainable Operations
 
@@ -11,6 +11,7 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-Business%20Intelligence-yellow)
 ![Databricks](https://img.shields.io/badge/Databricks-Analytics-red)
 
+</div>
 ---
 
 # 🏆 Tata Technologies InnoVent 2027 Project
