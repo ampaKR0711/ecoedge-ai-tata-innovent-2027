@@ -1,5 +1,5 @@
 <div align="center">
-#EcoEdge AI 
+#  ⚡EcoEdge AI 
 
 ### Industrial Energy Intelligence Platform for Sustainable Operations
 
