@@ -282,17 +282,17 @@ EcoEdge AI supports sustainable industrial operations.
 ## Carbon Emission Calculation
 
 ```text
-Carbon Emission
-=
-Energy Consumption × Emission Factor
+Carbon Emission = Energy Consumption × Emission Factor
+
+
 ```
 
 Example:
 
 ```text
-1000 kWh × 0.82
+1000 kWh × 0.82 = 820 kg CO₂
 
-= 820 kg CO₂
+
 ```
 
 ## Sustainability KPIs
